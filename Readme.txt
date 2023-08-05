@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: NiceAdmin
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This was my first project during an internship I took over the summer. When asked what problems my school had I suggested to make a system for the Guidance Counseling Unit forms we had to fill out every school year since we only had 3 teachers who we assigned to organize and record all the inputs of the 1,200 students. I was told to use a template so I could focus on the backend instead of worrying about how the project looks. Using PHP I was able to make a system for my school which would take the input from the students and store them in a MySQL database which could late be turned into a PDF report and printed for the teachers. This project also includes User Authentication and an Admin Panel.
